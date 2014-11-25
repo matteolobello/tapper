@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tapper</string>
+    <string name="title_activity_game_played">GamePlayed</string>
+    <string name="title_activity_main_activity_for_phone">MainActivityForPhone</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tap_to_start">Tapper\n\nTocca per iniziare :)</string>
+    <string name="press_circle">Premi il cerchio per annullare</string>
+    <string name="share">Condividi il mio risultato</string>
+    <string name="have_fun">Divertiti! :)</string>
+    <string name="tap_to_restart">Premi di nuovo per ricominciare…</string>
+    <string name="go">VIA!</string>
+    <string name="done_new_score">Finito!\n\nNuovo Risultato:</string>
+    <string name="done_new_best">Finito!\n\nNuovo Record:</string>
+    <string name="best_score">\n\nRecord:</string>
+    <string name="share_body">Hey, questo è il mio risultato su Tapper:</string>
+    <string name="share_via">Condividi il tuo risultato via…</string>
+
+</resources>
