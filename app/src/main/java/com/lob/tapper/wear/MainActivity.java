@@ -130,7 +130,7 @@ public class MainActivity extends Activity implements
                             " " +
                             record() +
                             " :)" +
-                            "\n\nhttps://play.google.com/store/apps/details?id=com.lob.tapper";
+                            "\n\nhttps://play.google.com/store/apps/details?id=com.lob.tapper_previousapisupport";
                     sharingIntent.putExtra(android.content.Intent.EXTRA_TEXT, shareBody);
                     startActivity(Intent.createChooser(sharingIntent, String.valueOf(getResources().getString(R.string.share_via))));
                 }
